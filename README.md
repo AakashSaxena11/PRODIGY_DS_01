@@ -4,4 +4,3 @@
 
 **Method**: Random sampling of countries from World Bank data.  
 **Note**: Includes some regional/economic groups (per dataset structure).  
-**Key Insight**: "China's population (1.4B) is [X] times larger than [next country]."
